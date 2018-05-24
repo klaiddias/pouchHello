@@ -1,0 +1,4 @@
+#Wed May 23 16:17:51 BRT 2018
+base.0=C\:\\app\\pouchHello\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\app\\pouchHello\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
